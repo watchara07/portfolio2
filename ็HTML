@@ -1,0 +1,35 @@
+<section id="education">
+
+<div class="container">
+
+<div class="left">
+
+<h1>ประวัติการศึกษา</h1>
+
+<div class="card">
+<h3>ม.3</h3>
+<p>โรงเรียนพานทอง...</p>
+
+<hr>
+
+<h3>ม.6</h3>
+<p>โรงเรียนพานทอง...</p>
+
+<hr>
+
+<h3>-</h3>
+<p>-...</p>
+
+</div>
+
+</div>
+
+<div class="right">
+
+<img src="education.png">
+
+</div>
+
+</div>
+
+</section>
